@@ -15,7 +15,7 @@
 </p>
 
 
-> The project, “Society Finance Managment System” is a JSP- Servlets based application consisting of a basic UI for users to manage the housing society members data. The families resides in a given society enters their details in the system. The entered data is then stored in the database. This system keeps track of monthly maintenance payment received from each family. If anyone who fails to pay the payment upto certain date then he/she has to pays the penalty for that payment. Also the system send the email notification for transaction done and reminder for monthly maintenance payment.
+> The project, “Society Finance Managment System” is a JSP- Servlets based application consisting of a basic UI for users to manage the housing society members data. The families resides in a given society enters their details in the system. The entered data is then stored in the database. This system keeps track of monthly maintenance payment received from each family. If anyone who fails to pay the payment upto certain date then he/she has to pays the penalty for that payment. Also the system send the email notification for transaction done and reminder for monthly maintenance payment. The system also able to make the payment of securities, Vendors Salary and the report generation of Families who make frequent delayed payment, Yearly spending’s.
 
 ### 🏠 [Homepage](https://github.com/mayur-nagare/Society-Finance-Management/#readme)
 
@@ -30,7 +30,7 @@
 ```sh
 Spring Tool Suite
 ```
-
+Link : [Spring Tool Suite](https://download.springsource.com/release/STS4/4.10.0.RELEASE/dist/e4.19/spring-tool-suite-4-4.10.0.RELEASE-e4.19.0-win32.win32.x86_64.self-extracting.jar)
 Side Note: Basic knowledge of usage of spring tool suite or eclipse is required. Code files are in .java or .jsp format.
 ## Usage
 
