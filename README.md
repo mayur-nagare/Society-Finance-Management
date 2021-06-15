@@ -6,12 +6,13 @@
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+ <!-- <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/mayur-nagare/Society Finance Management System" />
   </a>
+-->
 </p>
 
 
@@ -21,9 +22,9 @@
 
 ## Prerequisites
 
-- mysql server 8 +
-- apache tomcat 9 +
-- spring tool suite 4 +
+- Mysql Server 8 +
+- Apache Tomcat 9 +
+- Spring Tool Suite 4 +
 
 ## Install
 
@@ -41,8 +42,5 @@ right click index.jsp/ run/ run of server
 
 ## Author
 
-👤 **Mayur Nagare**
-
-* Github: [@Mayur Nagare](https://github.com/mayur-nagare)
-* LinkedIn: [@honey-patre](https://www.linkedin.com/in/mayurnagre)
+* LinkedIn: [@Mayur Nagare](https://www.linkedin.com/in/mayurnagre)
 * Email    :  mayurnagre22@gmail.com
